@@ -6,3 +6,6 @@ I'm Bhargavi.V
 
 👩‍🎓 I'm currently learning web development.
 
+Connect with me
+
+https://www.linkedin.com/in/bhargavi-v-222066218/
