@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bhargavi</h1>
-<h3 align="center">I'm 2nd Year B Tech CSE student passionate about technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhar-02&label=Profile%20views&color=0e75b6&style=flat" alt="bhar-02" /> </p>
 
