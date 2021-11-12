@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhar-02&label=Profile%20views&color=0e75b6&style=flat" alt="bhar-02" /> </p>
 
-- 🌱 I’m currently learning **Web Development , DSA**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
