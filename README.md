@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋, I'm Bhargavi from SRM Institute of Science and Technology.<br>A 3rd year BTech student who is passionate about data science and machine learning.<br><br>
+A quick learner and enthusiastic geek seeking an opportunity in software engineering. Proficient in C++, Python, Java, HTML5, CSS, Javascript, Node.js and SQL. Strong ability to communicate with clients and express ideas.<br><br>
 
 
 ## 🌐 Socials:
